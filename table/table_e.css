@@ -1,0 +1,20 @@
+thead > tr {
+	background-color:#cfcfcf !important;
+}
+
+tbody > tr:hover {
+	 background:LightGreen !important;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.my-input {
+	padding:7px;
+}
+
+
+.save-delete-from {
+	background-color:#cfcfcf;
+}
